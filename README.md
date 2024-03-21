@@ -13,4 +13,6 @@ The task is completed using the OpenCV library for image and video processing. H
 7. Coins denominations classification and the amount of money calculation.
    As the coins are glinting in most videos, it is almost impossible to read their face value. Therefore, it was decided to use a KNN algorithm to rely on the size ratio of the coins, which are more visible.
 
-Results:
+Sample results:
+![Sample photo of detected coins](https://github.com/khrystynadol/coin_detection/assets/106964524/fcf4dc39-4704-4ffc-b11a-9e95e2a6003b)
+Other samples you can see in the detected folder.
